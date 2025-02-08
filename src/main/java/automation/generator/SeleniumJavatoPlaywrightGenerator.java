@@ -20,7 +20,7 @@ import org.json.JSONObject;
 
 public class SeleniumJavatoPlaywrightGenerator {
 
-    private static final String API_KEY = "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";
+    private static final String API_KEY = "<Enter the OPENAPI/ GROQ KEY>";
     private static final String LLM_API_URL = "https://api.groq.com/openai/v1/chat/completions";
 
 
